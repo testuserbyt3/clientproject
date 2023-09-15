@@ -1,0 +1,1132 @@
+.index {
+  background-color: #e4e4e4;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div {
+  background-color: #e4e4e4;
+  height: 2173px;
+  position: relative;
+  width: 393px;
+}
+
+.index .overlap {
+  height: 2117px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 393px;
+}
+
+.index .component {
+  height: 159px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 58px;
+}
+
+.index .overlap-group {
+  height: 34px;
+  position: relative;
+  width: 52px;
+}
+
+.index .text-wrapper {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.index .text-wrapper-2 {
+  color: #dfdede;
+  font-family: "Poppins", Helvetica;
+  font-size: 9px;
+  font-weight: 800;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: line-through;
+  top: 20px;
+}
+
+.index .overlap-wrapper {
+  height: 33px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 50px;
+}
+
+.index .overlap-group-wrapper {
+  height: 33px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 46px;
+}
+
+.index .div-wrapper {
+  height: 33px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 49px;
+}
+
+.index .component-2 {
+  height: 174px;
+  left: 12px;
+  position: absolute;
+  top: 333px;
+  width: 371px;
+}
+
+.index .overlap-2 {
+  height: 174px;
+  position: relative;
+}
+
+.index .funday-home-banner {
+  background-color: #ffffff;
+  border-radius: 14px;
+  height: 157px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 371px;
+}
+
+.index .banner-home {
+  height: 142px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 343px;
+}
+
+.index .text-wrapper-3 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+}
+
+.index .text-wrapper-4 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 51px;
+}
+
+.index .from {
+  color: transparent;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+}
+
+.index .span {
+  color: #000000;
+  font-weight: 300;
+}
+
+.index .text-wrapper-5 {
+  color: #f9981b;
+  font-weight: 600;
+}
+
+.index .rectangle {
+  background-color: #000000;
+  border-radius: 8px;
+  height: 35px;
+  left: 21px;
+  position: absolute;
+  top: 96px;
+  width: 77px;
+}
+
+.index .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 105px;
+}
+
+.index .rectangle-2 {
+  background-color: #f9981b;
+  border-radius: 12px;
+  height: 19px;
+  left: 172px;
+  position: absolute;
+  top: 32px;
+  width: 90px;
+}
+
+.index .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 9px;
+  font-weight: 700;
+  left: 184px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+}
+
+.index .logo-removebg {
+  height: 25px;
+  left: 332px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 28px;
+}
+
+.index .component-3 {
+  height: 33px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 51px;
+}
+
+.index .component-4 {
+  background-color: #ffffff;
+  border-radius: 6px;
+  height: 171px;
+  left: 7px;
+  position: absolute;
+  top: 507px;
+  width: 182px;
+}
+
+.index .text-wrapper-8 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
+
+.index .xiomi-pro {
+  height: 89px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 88px;
+}
+
+.index .component-5 {
+  height: 33px;
+  left: 212px;
+  position: absolute;
+  top: 571px;
+  width: 50px;
+}
+
+.index .component-6 {
+  height: 2117px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 393px;
+}
+
+.index .img {
+  height: 163px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 379px;
+}
+
+.index .overlap-3 {
+  background-color: #ffffff;
+  border-radius: 6px;
+  height: 171px;
+  left: 200px;
+  position: absolute;
+  top: 507px;
+  width: 182px;
+}
+
+.index .text-wrapper-9 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
+
+.index .redmi-note-pro {
+  height: 89px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 89px;
+}
+
+.index .element-off-wrapper {
+  background-color: #ffecdf;
+  border: 1px solid;
+  border-color: #ff6900;
+  border-radius: 5px;
+  height: 16px;
+  left: 12px;
+  position: absolute;
+  top: 45px;
+  width: 56px;
+}
+
+.index .text-wrapper-10 {
+  color: #ff6900;
+  font-family: "Poppins", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.index .overlap-group-2 {
+  height: 20px;
+  left: 12px;
+  position: absolute;
+  top: 127px;
+  width: 44px;
+}
+
+.index .redmi-note-pro-g {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.index .redmi-note-pro-2 {
+  color: #b3b3b3;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 600;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 147px;
+}
+
+.index .poster {
+  height: 141px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 877px;
+  width: 371px;
+}
+
+.index .overlap-4 {
+  height: 75px;
+  left: 50px;
+  position: absolute;
+  top: 1417px;
+  width: 292px;
+}
+
+.index .text-wrapper-11 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 27px;
+  font-weight: 600;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.index .text-wrapper-12 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+}
+
+.index .text-wrapper-13 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  left: 129px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1504px;
+}
+
+.index .text-wrapper-14 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1610px;
+}
+
+.index .text-wrapper-15 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  left: 156px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1610px;
+}
+
+.index .text-wrapper-16 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  left: 266px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1610px;
+}
+
+.index .overlap-5 {
+  background-color: #191919;
+  height: 445px;
+  left: 0;
+  position: absolute;
+  top: 1672px;
+  width: 393px;
+}
+
+.index .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.index .let-s-stay-in-touch {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 126px;
+}
+
+.index .overlap-6 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 33px;
+  left: 23px;
+  position: absolute;
+  top: 272px;
+  width: 347px;
+}
+
+.index .element-google {
+  height: 21px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 27px;
+}
+
+.index .text-wrapper-18 {
+  color: #252323;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 115px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+}
+
+.index .overlap-7 {
+  border: 2px solid;
+  border-color: #707070;
+  border-radius: 8px;
+  height: 29px;
+  left: 23px;
+  position: absolute;
+  top: 174px;
+  width: 347px;
+}
+
+.index .text-wrapper-19 {
+  color: #b6b6b6;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+}
+
+.index .icon-material {
+  height: 11px;
+  left: 323px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 7px;
+}
+
+.index .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 228px;
+}
+
+.index .text-wrapper-21 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 355px;
+}
+
+.index .line {
+  height: 1px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 404px;
+  width: 347px;
+}
+
+.index .p {
+  color: #868686;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 417px;
+}
+
+.index .component-7 {
+  height: 46px;
+  left: 11px;
+  position: absolute;
+  top: 10px;
+  width: 363px;
+}
+
+.index .logo-removebg-2 {
+  height: 46px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.index .search-button {
+  height: 37px;
+  left: 209px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 36px;
+}
+
+.index .cart-butoon-removebg {
+  height: 34px;
+  left: 266px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 40px;
+}
+
+.index .menu-button {
+  height: 32px;
+  left: 326px;
+  position: absolute;
+  top: 4px;
+  width: 37px;
+}
+
+.index .overlap-8 {
+  height: 87px;
+  left: 11px;
+  position: absolute;
+  top: 231px;
+  width: 382px;
+}
+
+.index .component-8 {
+  background-color: #ffffff;
+  height: 87px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 371px;
+}
+
+.index .categroires-icon {
+  height: 67px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 372px;
+}
+
+.index .component-9 {
+  background-color: #ffecdf;
+  border: 1px solid;
+  border-color: #ff6900;
+  border-radius: 5px;
+  height: 16px;
+  left: 21px;
+  position: absolute;
+  top: 550px;
+  width: 56px;
+}
+
+.index .redmi-note-pro-3 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 631px;
+}
+
+.index .redmi-note-pro-4 {
+  color: #b3b3b3;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 600;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 651px;
+}
+
+.index .overlap-9 {
+  border-radius: 6px;
+  height: 171px;
+  left: 200px;
+  position: absolute;
+  top: 692px;
+  width: 182px;
+}
+
+.index .element-off {
+  color: #ff6900;
+  font-family: "Poppins", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 49px;
+}
+
+.index .rectangle-3 {
+  background-color: #ffecdf;
+  border: 1px solid;
+  border-color: #ff6900;
+  border-radius: 5px;
+  height: 16px;
+  left: 7px;
+  position: absolute;
+  top: 49px;
+  width: 56px;
+}
+
+.index .xiaomi-pro-wrapper {
+  background-color: #ffffff;
+  border-radius: 6px;
+  height: 171px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.index .pms {
+  height: 89px;
+  left: 79px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 89px;
+}
+
+.index .rectangle-4 {
+  background-color: #ffecdf;
+  border: 1px solid;
+  border-color: #ff6900;
+  border-radius: 5px;
+  height: 16px;
+  left: 17px;
+  position: absolute;
+  top: 41px;
+  width: 56px;
+}
+
+.index .text-wrapper-22 {
+  color: #ff6900;
+  font-family: "Poppins", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+}
+
+.index .redmi-note-pro-5 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 124px;
+}
+
+.index .redmi-note-pro-6 {
+  color: #b3b3b3;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 600;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 144px;
+}
+
+.index .overlap-10 {
+  border-radius: 6px;
+  height: 171px;
+  left: 10px;
+  position: absolute;
+  top: 692px;
+  width: 182px;
+}
+
+.index .pms-2 {
+  height: 89px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 89px;
+}
+
+.index .overlap-11 {
+  background-color: #ffffff;
+  border-radius: 6px;
+  height: 171px;
+  left: 200px;
+  position: absolute;
+  top: 1029px;
+  width: 182px;
+}
+
+.index .overlap-12 {
+  height: 17px;
+  left: 12px;
+  position: absolute;
+  top: 45px;
+  width: 56px;
+}
+
+.index .element-off-2 {
+  color: #ff6900;
+  font-family: "Poppins", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.index .rectangle-5 {
+  background-color: #ffecdf;
+  border: 1px solid;
+  border-color: #ff6900;
+  border-radius: 5px;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.index .overlap-13 {
+  height: 33px;
+  left: 12px;
+  position: absolute;
+  top: 127px;
+  width: 43px;
+}
+
+.index .redmi-note-pro-7 {
+  color: #b3b3b3;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 600;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+}
+
+.index .pms-3 {
+  height: 89px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 89px;
+}
+
+.index .overlap-14 {
+  background-color: #ffffff;
+  border-radius: 6px;
+  height: 171px;
+  left: 10px;
+  position: absolute;
+  top: 1029px;
+  width: 182px;
+}
+
+.index .overlap-15 {
+  height: 33px;
+  left: 12px;
+  position: absolute;
+  top: 127px;
+  width: 44px;
+}
+
+.index .redmi-note-pro-8 {
+  color: #b3b3b3;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 600;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+}
+
+.index .removebg {
+  height: 89px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 89px;
+}
+
+.index .overlap-16 {
+  background-color: #ffffff;
+  border-radius: 6px;
+  height: 171px;
+  left: 200px;
+  position: absolute;
+  top: 1215px;
+  width: 182px;
+}
+
+.index .overlap-17 {
+  height: 18px;
+  left: 12px;
+  position: absolute;
+  top: 44px;
+  width: 56px;
+}
+
+.index .element-off-3 {
+  color: #ff6900;
+  font-family: "Poppins", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+}
+
+.index .rectangle-6 {
+  background-color: #ffecdf;
+  border: 1px solid;
+  border-color: #ff6900;
+  border-radius: 5px;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 56px;
+}
+
+.index .redmi-note-pro-9 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 127px;
+}
+
+.index .pms-4 {
+  height: 89px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 89px;
+}
+
+.index .overlap-18 {
+  background-color: #ffffff;
+  border-radius: 6px;
+  height: 171px;
+  left: 10px;
+  position: absolute;
+  top: 1215px;
+  width: 182px;
+}
+
+.index .pms-5 {
+  height: 89px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 89px;
+}
+
+.index .component-10 {
+  height: 55px;
+  left: 34px;
+  position: absolute;
+  top: 1549px;
+  width: 295px;
+}
+
+.index .removebg-preview {
+  height: 54px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 56px;
+}
+
+.index .s-removebg-preview {
+  height: 55px;
+  left: 111px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.index .removebg-preview-2 {
+  height: 50px;
+  left: 237px;
+  position: absolute;
+  top: 3px;
+  width: 58px;
+}
+
+.index .component-11 {
+  height: 42px;
+  left: 15px;
+  position: absolute;
+  top: 1734px;
+  width: 178px;
+}
+
+.index .fb-icon-removebg {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 39px;
+}
+
+.index .insta-icon-removebg {
+  height: 38px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 39px;
+}
+
+.index .twitter-icon {
+  height: 42px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.index .component-12 {
+  height: 20px;
+  left: 23px;
+  position: absolute;
+  top: 1998px;
+  width: 116px;
+}
+
+.index .download-removebg {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.index .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.index .component-13 {
+  background-color: #000000;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 393px;
+}
+
+.index .text-wrapper-24 {
+  -webkit-text-stroke: 1px #999898;
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 17px;
+  font-weight: 300;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
